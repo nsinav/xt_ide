@@ -15,8 +15,9 @@
 # ignore vim tempfiles
 *~
 
-# ignore KiCAD tempfiles, autosaves, backups
+# ignore KiCAD tempfiles, autosaves, backups, caches
 ~*
 \#*\#
 _autosave*
 *-backups
+fp-info-cache
